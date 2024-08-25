@@ -73,7 +73,7 @@ class Edificio{
 //     throw "testClaseBandaApartment not passed";
 //   }
 // }
-
+console.log("Holas Mundos")
 function main() {
   //testClaseEdificio();
   const Depto1 = new Departamento ("Depto1");
